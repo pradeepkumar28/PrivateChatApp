@@ -6,6 +6,6 @@
 
 ## About
 
- - We can have chat with different users.
- - We can add contacts which are created using a package known as UUID
- - We can also Create groups.
+ - can have chat with different users.
+ - can add contacts which are created using Id which are created randomly from a package known as UUID
+ - can also Create groups.
